@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: Times;
+    background: black;
+    color: white;
+}
+
+canvas {
+    position: relative;
+    margin: 20px auto;
+}
