@@ -1,0 +1,25 @@
+Free SSH Tunneling Server France
+
+Server	: ssh.fr.sshmax.net
+Username	: sshmax-umobile
+Password	: 1
+Created	: 28 Apr 2021
+Expired	: 28 May 2021
+OpenSSH	: 22
+OpenSSH+SSL	: 143
+Dropbear	: 80
+Dropbear+SSL	: 443
+UDPGW	: 7200, 7300
+HTTP Proxy
+Squid	: 8080, 8080, 8888
+Squid+OHP	: 5555
+Privoxy	: 3128
+Privoxy+OHP	: 5556
+
+SSH Tunnel
+SSH FR
+Host: ssh.fr.sshmax.net
+Valid: 30 days
+Dropbear: 80, 442
+OpenSSH: 22
+SSL/TLS: 443
