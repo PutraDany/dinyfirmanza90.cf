@@ -1,0 +1,11 @@
+[Interface]
+PrivateKey = kGlgSWx31wTWEkR+U0PDz5UXSvEAKTQwAqB4HR921ks=
+Address = 10.9.4.103/24
+DNS = 8.8.8.8
+MTU = 1420
+[Peer]
+PublicKey = cP2nFHt/j5BMl6nTEK+hx6aI9ECO2v+TBeAX4Bj+l3c=
+AllowedIPs = 0.0.0.0/0, ::/0 
+Endpoint = wg-us01.hostip.us:2640
+PersistentKeepalive = 25
+
