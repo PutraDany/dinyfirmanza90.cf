@@ -1,0 +1,10 @@
+[Interface]
+PrivateKey = gBHvbWn0qKf01mN2M4iyEfpBlPuaoI/kVwpBz58n80Q=
+Address = 10.66.81.147/32
+DNS = 8.8.8.8
+
+[Peer]
+PublicKey = HJZN5Q0xuPWj7VIvQl+6nOaQKPFNCTScl2W81jqr1SM=
+PresharedKey = xZ8Wfzc6GL+J053quHBrqoz7WjOuGmJw9ZLYzXoOIg8=
+Endpoint = face.yuanzhanapp.com.wg-sg1.hostip.co:443
+AllowedIPs = 0.0.0.0/0,::/0
